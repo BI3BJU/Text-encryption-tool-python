@@ -4,7 +4,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-CLI%20%7C%20GUI-lightgrey)](https://github.com/BI3BJU/Text-encryption-tool-python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/BI3BJU/Text-encryption-tool-python)](https://github.com/BI3BJU/Text-encryption-tool-python)
-[English](#english) | [中文](#chinese)
+
+**English** | [中文](#中文版)
+
+---
 
 ## Screenshots (截图)
 
