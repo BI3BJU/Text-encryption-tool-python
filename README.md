@@ -6,6 +6,12 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/BI3BJU/Text-encryption-tool-python)](https://github.com/BI3BJU/Text-encryption-tool-python)
 [English](#english) | [中文](#chinese)
 
+## Screenshots (截图)
+
+| 主界面 (Main) | 
+| :---: |
+| ![主界面](./main.jpg) |
+
 ## <a id="chinese"></a>中文
 
 ### 📖 简介
