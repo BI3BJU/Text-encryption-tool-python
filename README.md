@@ -14,7 +14,7 @@
 | :---: |
 | ![主界面](./main.jpg) |
 
-## <a id="chinese"></a>中文
+
 
 ### 📖 简介
 
@@ -152,7 +152,7 @@ BI3BJU – 业余无线电爱好者 & 开源开发者
 
 ---
 
-## <a id="english"></a>English
+
 
 ### 📖 Introduction
 
